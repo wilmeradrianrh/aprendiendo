@@ -1,0 +1,28 @@
+.nav-bar{
+    text-decoration: none;
+
+text-decoration: none;
+padding: 10px;
+background: rgb(70, 122, 199);
+color: black;
+}
+nav{
+    display: flex;
+   justify-content: space-around;
+}
+
+ .nav-bar:hover{
+    background-color: brown;
+}
+
+@media(max-width: 300px) {
+    nav{
+       background: black;
+    flex-direction: column; }
+
+    .nav-bar{
+        margin: 10px 0px;
+
+    }
+    }
+

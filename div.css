@@ -1,0 +1,20 @@
+h1{
+    background: grey;
+    color: red;
+    margin: 10px;
+    padding: 20px;
+    display: inline-block;
+}
+
+a{
+    background: rgb(192, 33, 33);
+    color: aqua;
+    margin: 10px;
+    padding: 20px;
+    a{
+        background: rgb(192, 33, 33);
+        color: aqua;
+        margin: 10px;
+        padding: 20px;
+       display: inline-flex;
+    }

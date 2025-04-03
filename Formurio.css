@@ -1,0 +1,18 @@
+
+h1{
+    display: flex;
+    justify-content: space-around;
+    background: rgb(191, 230, 235);
+     color: rgb(58, 43, 43);}
+     
+body{
+    color: black;
+    
+
+}
+@media(max-width: 300px) {
+    nav{
+       background: black;
+    flex-direction: column;
+color: red;
+ 
